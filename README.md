@@ -30,9 +30,10 @@
 ![](https://img.shields.io/badge/django-51be95?logo=django&style=for-the-badge&)
 
 ### DevOps
-![](https://img.shields.io/badge/azure-368EE3?logo=microsoftazure&style=for-the-badge&) &nbsp;
+![](https://img.shields.io/badge/azure-368EE3?logo=azure&style=for-the-badge&) &nbsp;
 ![](https://img.shields.io/badge/azure_devops-368EE3?logo=azuredevops&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/kubernetes-93EAFF?logo=kubernetes&style=for-the-badge&)
+![](https://img.shields.io/badge/kubernetes-93EAFF?logo=kubernetes&style=for-the-badge&) &nbsp;
+![](https://img.shields.io/badge/bicep-6181A1?logo=bicep&style=for-the-badge&)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
