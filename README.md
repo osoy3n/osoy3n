@@ -6,7 +6,6 @@
 - 🌱 I'm currently learning about &nbsp;
 ![](https://img.shields.io/badge/dotnet-512BD4?logo=dotnet) &nbsp;
 ![](https://img.shields.io/badge/csharp-67217A?logo=csharp) &nbsp;
-![](https://img.shields.io/badge/docker-E5F2FC?logo=docker) &nbsp;
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -32,6 +31,7 @@
 ### DevOps
 ![](https://img.shields.io/badge/Azure-368EE3?logo=azure&) &nbsp;
 ![](https://img.shields.io/badge/Azure_Devops-368EE3?logo=azuredevops&) &nbsp;
+![](https://img.shields.io/badge/Docker-E5F2FC?logo=docker) &nbsp;
 ![](https://img.shields.io/badge/Kubernetes-93EAFF?logo=kubernetes&) &nbsp;
 ![](https://img.shields.io/badge/Bicep-6181A1?logo=bicep&)
 
