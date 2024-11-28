@@ -11,29 +11,29 @@
 ## 🛠️ &nbsp;Tech Stack
 
 ### Languages
-![](https://img.shields.io/badge/html-F06529?logo=html5&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/css-33A9DC?logo=css3&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/javascript-222222?logo=javascript&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/typescript-ffffff?logo=typescript&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/python-FFD43B?logo=python&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/powershell-FFFFFF?logo=powershell&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/yaml-CC1018?logo=yaml&style=for-the-badge&)
+![](https://img.shields.io/badge/HTML-F06529?logo=html5&) &nbsp;
+![](https://img.shields.io/badge/CSS-33A9DC?logo=css3&) &nbsp;
+![](https://img.shields.io/badge/JavaScript-222222?logo=javascript&) &nbsp;
+![](https://img.shields.io/badge/TypeScript-ffffff?logo=typescript&) &nbsp;
+![](https://img.shields.io/badge/Python-FFD43B?logo=python&) &nbsp;
+![](https://img.shields.io/badge/PowerShell-FFFFFF?logo=powershell&) &nbsp;
+![](https://img.shields.io/badge/YAML-CC1018?logo=yaml&)
 
 ### Databases
-![](https://img.shields.io/badge/mysql-F29111?logo=mysql&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/postgresql-E2E6EA?logo=postgresql&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/sql_server-0078D4?logo=microsoftsqlserver&style=for-the-badge&)
+![](https://img.shields.io/badge/MySQL-F29111?logo=mysql&) &nbsp;
+![](https://img.shields.io/badge/PostgreSQL-E2E6EA?logo=postgresql&) &nbsp;
+![](https://img.shields.io/badge/SQL_Server-0078D4?logo=microsoftsqlserver&)
 
 ### Fromeworks and Librarys
-![](https://img.shields.io/badge/react-222222?logo=react&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/astro-6018ac?logo=astro&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/django-51be95?logo=django&style=for-the-badge&)
+![](https://img.shields.io/badge/React-222222?logo=react&) &nbsp;
+![](https://img.shields.io/badge/Astro-6018ac?logo=astro&) &nbsp;
+![](https://img.shields.io/badge/DJango-51be95?logo=django&)
 
 ### DevOps
-![](https://img.shields.io/badge/azure-368EE3?logo=azure&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/azure_devops-368EE3?logo=azuredevops&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/kubernetes-93EAFF?logo=kubernetes&style=for-the-badge&) &nbsp;
-![](https://img.shields.io/badge/bicep-6181A1?logo=bicep&style=for-the-badge&)
+![](https://img.shields.io/badge/Azure-368EE3?logo=azure&) &nbsp;
+![](https://img.shields.io/badge/Azure_Devops-368EE3?logo=azuredevops&) &nbsp;
+![](https://img.shields.io/badge/Kubernetes-93EAFF?logo=kubernetes&) &nbsp;
+![](https://img.shields.io/badge/Bicep-6181A1?logo=bicep&)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
