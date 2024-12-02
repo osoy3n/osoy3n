@@ -38,6 +38,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=osoriolzn&show_icons=true&theme=vision-friendly-dark" alt="osoriolzn's stats"/>
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoriolzn&layout=compact&theme=vision-friendly-dark" alt="osoriolzn's most languages"/>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=osoy3n&show_icons=true&theme=vision-friendly-dark" alt="osoy3n's stats"/>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoy3n&layout=compact&theme=vision-friendly-dark" alt="osoy3n's most languages"/>
 </p>
