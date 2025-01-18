@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=osoriolzn&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=osoy3n&color=blue&style=flat)
 <h1 align="left">Hello 👋 People, I’m Yohan Osorio</h1>
 
 - 👨‍💻 I'm DevOps Engineer
@@ -26,7 +26,8 @@
 ### Fromeworks and Librarys
 ![](https://img.shields.io/badge/React-222222?logo=react&) &nbsp;
 ![](https://img.shields.io/badge/Astro-6018ac?logo=astro&) &nbsp;
-![](https://img.shields.io/badge/DJango-51be95?logo=django&)
+![](https://img.shields.io/badge/DJango-51be95?logo=django&) &nbsp;
+![](https://img.shields.io/badge/Node.js-0d121c?logo=node.js)
 
 ### DevOps
 ![](https://img.shields.io/badge/Azure-368EE3?logo=azure&) &nbsp;
