@@ -6,6 +6,7 @@
 - 🌱 I'm currently learning about &nbsp;
 ![](https://img.shields.io/badge/dotnet-512BD4?logo=dotnet) &nbsp;
 ![](https://img.shields.io/badge/csharp-67217A?logo=csharp) &nbsp;
+![](https://img.shields.io/badge/fastapi-1E2129?logo=fastapi)
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -26,8 +27,8 @@
 ### Fromeworks and Librarys
 ![](https://img.shields.io/badge/React-222222?logo=react) &nbsp;
 ![](https://img.shields.io/badge/Astro-6018ac?logo=astro) &nbsp;
-![](https://img.shields.io/badge/DJango-51be95?logo=django) &nbsp;
-![](https://img.shields.io/badge/Node.js-0d121c?logo=node.js)
+![](https://img.shields.io/badge/Node.js-0d121c?logo=node.js) &nbsp;
+![](https://img.shields.io/badge/DJango-51be95?logo=django)
 
 ### DevOps
 ![](https://img.shields.io/badge/Azure-368EE3?logo=azure) &nbsp;
