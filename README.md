@@ -6,7 +6,8 @@
 - 🌱 I'm currently learning about &nbsp;
 ![](https://img.shields.io/badge/dotnet-512BD4?logo=dotnet) &nbsp;
 ![](https://img.shields.io/badge/csharp-67217A?logo=csharp) &nbsp;
-![](https://img.shields.io/badge/fastapi-1E2129?logo=fastapi)
+![](https://img.shields.io/badge/fastapi-1E2129?logo=fastapi) &nbsp;
+![](https://img.shields.io/badge/vue-1A1A1A?logo=vue.js) &nbsp;
 
 ## 🛠️ &nbsp;Tech Stack
 
