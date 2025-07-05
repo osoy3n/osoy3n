@@ -4,11 +4,11 @@
 - 👨‍💻 I'm DevOps Engineer
 - 🏢 I'm currently working on [Arroyo Consulting LLC](https://arroyoconsulting.net/)
 - 🌱 I'm currently learning about &nbsp;
-![](https://img.shields.io/badge/csharp-67217A?logo=csharp) &nbsp;
-![](https://img.shields.io/badge/dotnet-512BD4?logo=dotnet) &nbsp;
-![](https://img.shields.io/badge/fastapi-1E2129?logo=fastapi) &nbsp;
-![](https://img.shields.io/badge/terraform-201130?logo=terraform) &nbsp;
-![](https://img.shields.io/badge/vue-1A1A1A?logo=vue.js) &nbsp;
+![](https://img.shields.io/badge/CSharp-67217A?logo=csharp) &nbsp;
+![](https://img.shields.io/badge/dotNET-512BD4?logo=dotnet) &nbsp;
+![](https://img.shields.io/badge/MCP_Server-FFFFFF?logo=mcp) &nbsp;
+![](https://img.shields.io/badge/Terraform-201130?logo=terraform) &nbsp;
+![](https://img.shields.io/badge/Vue-1A1A1A?logo=vue.js) &nbsp;
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -29,6 +29,7 @@
 ### Fromeworks and Librarys
 ![](https://img.shields.io/badge/Astro-6018ac?logo=astro) &nbsp;
 ![](https://img.shields.io/badge/DJango-51be95?logo=django) &nbsp;
+![](https://img.shields.io/badge/FastAPI-1E2129?logo=fastapi) &nbsp;
 ![](https://img.shields.io/badge/Node.js-0d121c?logo=node.js) &nbsp;
 ![](https://img.shields.io/badge/React-222222?logo=react) &nbsp;
 
