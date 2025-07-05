@@ -4,11 +4,11 @@
 - 👨‍💻 I'm DevOps Engineer
 - 🏢 I'm currently working on [Arroyo Consulting LLC](https://arroyoconsulting.net/)
 - 🌱 I'm currently learning about &nbsp;
-![](https://img.shields.io/badge/dotnet-512BD4?logo=dotnet) &nbsp;
 ![](https://img.shields.io/badge/csharp-67217A?logo=csharp) &nbsp;
+![](https://img.shields.io/badge/dotnet-512BD4?logo=dotnet) &nbsp;
 ![](https://img.shields.io/badge/fastapi-1E2129?logo=fastapi) &nbsp;
-![](https://img.shields.io/badge/vue-1A1A1A?logo=vue.js) &nbsp;
 ![](https://img.shields.io/badge/terraform-201130?logo=terraform) &nbsp;
+![](https://img.shields.io/badge/vue-1A1A1A?logo=vue.js) &nbsp;
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -27,17 +27,17 @@
 ![](https://img.shields.io/badge/SQL_Server-0078D4?logo=microsoftsqlserver)
 
 ### Fromeworks and Librarys
-![](https://img.shields.io/badge/React-222222?logo=react) &nbsp;
 ![](https://img.shields.io/badge/Astro-6018ac?logo=astro) &nbsp;
+![](https://img.shields.io/badge/DJango-51be95?logo=django) &nbsp;
 ![](https://img.shields.io/badge/Node.js-0d121c?logo=node.js) &nbsp;
-![](https://img.shields.io/badge/DJango-51be95?logo=django)
+![](https://img.shields.io/badge/React-222222?logo=react) &nbsp;
 
 ### DevOps
-![](https://img.shields.io/badge/Azure-368EE3?logo=azure) &nbsp;
 ![](https://img.shields.io/badge/Azure_Devops-368EE3?logo=azuredevops) &nbsp;
+![](https://img.shields.io/badge/Azure-368EE3?logo=azure) &nbsp;
+![](https://img.shields.io/badge/Bicep-6181A1?logo=bicep) &nbsp;
 ![](https://img.shields.io/badge/Docker-E5F2FC?logo=docker) &nbsp;
 ![](https://img.shields.io/badge/Kubernetes-93EAFF?logo=kubernetes) &nbsp;
-![](https://img.shields.io/badge/Bicep-6181A1?logo=bicep)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
