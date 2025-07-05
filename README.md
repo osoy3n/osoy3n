@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/csharp-67217A?logo=csharp) &nbsp;
 ![](https://img.shields.io/badge/fastapi-1E2129?logo=fastapi) &nbsp;
 ![](https://img.shields.io/badge/vue-1A1A1A?logo=vue.js) &nbsp;
+![](https://img.shields.io/badge/terraform-201130?logo=terraform) &nbsp;
 
 ## 🛠️ &nbsp;Tech Stack
 
