@@ -2,7 +2,7 @@
 <h1 align="left">Hello 👋 People, I’m Yohan Osorio</h1>
 
 - 👨‍💻 I'm DevOps Engineer
-- 🏢 I'm currently working on [Arroyo Consulting LLC](https://arroyoconsulting.net/)
+- 🏢 I'm currently working on [INSPYR Global Solutions](https://www.inspyrsolutions.com/)
 - 🌱 I'm currently learning about &nbsp;
 ![](https://img.shields.io/badge/CSharp-67217A?logo=csharp) &nbsp;
 ![](https://img.shields.io/badge/Terraform-201130?logo=terraform) &nbsp;
