@@ -5,8 +5,6 @@
 - 🏢 I'm currently working on [Arroyo Consulting LLC](https://arroyoconsulting.net/)
 - 🌱 I'm currently learning about &nbsp;
 ![](https://img.shields.io/badge/CSharp-67217A?logo=csharp) &nbsp;
-![](https://img.shields.io/badge/dotNET-512BD4?logo=dotnet) &nbsp;
-![](https://img.shields.io/badge/MCP_Server-FFFFFF?logo=mcp) &nbsp;
 ![](https://img.shields.io/badge/Terraform-201130?logo=terraform) &nbsp;
 ![](https://img.shields.io/badge/Vue-1A1A1A?logo=vue.js) &nbsp;
 
@@ -18,6 +16,7 @@
 ![](https://img.shields.io/badge/JavaScript-222222?logo=javascript) &nbsp;
 ![](https://img.shields.io/badge/TypeScript-ffffff?logo=typescript) &nbsp;
 ![](https://img.shields.io/badge/Python-FFD43B?logo=python) &nbsp;
+![](https://img.shields.io/badge/dotNET-512BD4?logo=dotnet) &nbsp;
 ![](https://img.shields.io/badge/PowerShell-FFFFFF?logo=powershell) &nbsp;
 ![](https://img.shields.io/badge/YAML-CC1018?logo=yaml)
 
@@ -39,6 +38,10 @@
 ![](https://img.shields.io/badge/Bicep-6181A1?logo=bicep) &nbsp;
 ![](https://img.shields.io/badge/Docker-E5F2FC?logo=docker) &nbsp;
 ![](https://img.shields.io/badge/Kubernetes-93EAFF?logo=kubernetes) &nbsp;
+
+### Others
+![](https://img.shields.io/badge/AI-MCP_Server-FFFFFF?logo=mcp) &nbsp;
+![](https://img.shields.io/badge/AI-Agents-0078D4?logo=agents) &nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
