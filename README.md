@@ -46,3 +46,4 @@
     <img width="530em" src="https://github-readme-stats.vercel.app/api?username=osoy3n&show_icons=true&theme=vision-friendly-dark" alt="osoy3n's stats"/>
     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoy3n&layout=compact&theme=vision-friendly-dark" alt="osoy3n's most languages"/>
 </p>
+<p align="center">The statistics are provided by <a href="https://github-readme-stats.vercel.app">github-readme-stats</a>. If the images fail to load the service may be temporarily down - visit my <a href="https://github.com/osoy3n">GitHub profile</a> to view the statistics directly.</p>
