@@ -2,23 +2,22 @@
 <h1 align="left">Hello 👋 People, I’m Yohan Osorio</h1>
 
 - 👨‍💻 I'm DevOps Engineer
-- 🏢 I'm currently working on [INSPYR Global Solutions](https://www.inspyrsolutions.com/)
+- 🏢 I'm currently working on [INSPYR Global Solutions](https://www.inspyrsolutions.com/global-solutions/)
 - 🌱 I'm currently learning about &nbsp;
-![](https://img.shields.io/badge/CSharp-67217A?logo=csharp) &nbsp;
 ![](https://img.shields.io/badge/Terraform-201130?logo=terraform) &nbsp;
-![](https://img.shields.io/badge/Vue-1A1A1A?logo=vue.js) &nbsp;
 
 ## 🛠️ &nbsp;Tech Stack
 
 ### Languages
-![](https://img.shields.io/badge/HTML-F06529?logo=html5) &nbsp;
+![](https://img.shields.io/badge/CSharp-67217A?logo=csharp) &nbsp;
 ![](https://img.shields.io/badge/CSS-33A9DC?logo=css3) &nbsp;
+![](https://img.shields.io/badge/HTML-F06529?logo=html5) &nbsp;
 ![](https://img.shields.io/badge/JavaScript-222222?logo=javascript) &nbsp;
-![](https://img.shields.io/badge/TypeScript-ffffff?logo=typescript) &nbsp;
-![](https://img.shields.io/badge/Python-FFD43B?logo=python) &nbsp;
-![](https://img.shields.io/badge/dotNET-512BD4?logo=dotnet) &nbsp;
 ![](https://img.shields.io/badge/PowerShell-FFFFFF?logo=powershell) &nbsp;
-![](https://img.shields.io/badge/YAML-CC1018?logo=yaml)
+![](https://img.shields.io/badge/Python-FFD43B?logo=python) &nbsp;
+![](https://img.shields.io/badge/Rust-000000?logo=rust) &nbsp;
+![](https://img.shields.io/badge/TypeScript-FFFFFF?logo=typescript) &nbsp;
+![](https://img.shields.io/badge/YAML-CC1018?logo=yaml) &nbsp;
 
 ### Databases
 ![](https://img.shields.io/badge/MySQL-F29111?logo=mysql) &nbsp;
@@ -28,9 +27,12 @@
 ### Fromeworks and Librarys
 ![](https://img.shields.io/badge/Astro-6018ac?logo=astro) &nbsp;
 ![](https://img.shields.io/badge/DJango-51be95?logo=django) &nbsp;
+![](https://img.shields.io/badge/dotNET-512BD4?logo=dotnet) &nbsp;
 ![](https://img.shields.io/badge/FastAPI-1E2129?logo=fastapi) &nbsp;
 ![](https://img.shields.io/badge/Node.js-0d121c?logo=node.js) &nbsp;
 ![](https://img.shields.io/badge/React-222222?logo=react) &nbsp;
+![](https://img.shields.io/badge/Svelte-FFFFFF?logo=svelte) &nbsp;
+![](https://img.shields.io/badge/Vue-1A1A1A?logo=vue.js) &nbsp;
 
 ### DevOps
 ![](https://img.shields.io/badge/Azure_Devops-368EE3?logo=azuredevops) &nbsp;
